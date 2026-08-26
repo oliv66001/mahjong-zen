@@ -1,3 +1,4 @@
+/* Mahjong Zen Journey — pages légales */
 :root { --ink: #241c2d; --jade: #145444; --gold: #c7963e; --mist: #f7f3eb; --line: #ded4c2; }
 * { box-sizing: border-box; }
 body { margin: 0; color: var(--ink); background: linear-gradient(160deg, #f7f3eb 0%, #fbfaf7 45%, #e7efe9 100%); font: 16px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
